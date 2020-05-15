@@ -1,5 +1,4 @@
-# test-Invisible-tech
-Weather Application 
+## Weather Application app
 
 Remember to execute ```npm install``` to install libraries
 
@@ -10,8 +9,3 @@ Remember to execute ```npm install``` to install libraries
     node app -d "chicago"
     node app -d "New York"
 -------------------------------------
-
-
-For running the predefined tests
-
-Execute the command ```npm test``` 
